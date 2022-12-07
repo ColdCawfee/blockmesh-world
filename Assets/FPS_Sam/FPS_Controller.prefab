@@ -154,7 +154,7 @@ MonoBehaviour:
   canCrouch: 1
   canSlideOnSlopes: 1
   runKey: 304
-  jumpKey: 32
+  jumpKey: 0
   crouchKey: 306
   walkSpeed: 4
   runSpeed: 6
