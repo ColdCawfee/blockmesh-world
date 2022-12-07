@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canRun: 1
-  canJump: 0
+  canJump: 1
   canCrouch: 1
   canSlideOnSlopes: 1
   runKey: 304
