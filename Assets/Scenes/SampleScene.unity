@@ -13733,11 +13733,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4562274990698024571, guid: 176c30d75461f3842bb06e3734de7993, type: 3}
       propertyPath: canJump
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4562274990698024571, guid: 176c30d75461f3842bb06e3734de7993, type: 3}
-      propertyPath: canSlideOnSlopes
-      value: 1
+      propertyPath: jumpKey
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4562274990698024573, guid: 176c30d75461f3842bb06e3734de7993, type: 3}
       propertyPath: m_RootOrder
